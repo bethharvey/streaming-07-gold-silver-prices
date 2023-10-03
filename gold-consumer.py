@@ -46,8 +46,8 @@ def gold_callback(ch, method, properties, body):
 
         # calculate change in price over past week and since previous day
         if len(GOLD_DEQUE) > 1:
-            week_change = GOLD_DEQUE[0] - GOLD_DEQUE[-1]
-            day_change = GOLD_DEQUE[-2] - GOLD_DEQUE[-1]
+            week_change = round(GOLD_DEQUE[0] - GOLD_DEQUE[-1],2)
+            day_change = round(GOLD_DEQUE[-2] - GOLD_DEQUE[-1],2)
 
             # check for price over $1850 and send alert
             if gold_price > 1850:

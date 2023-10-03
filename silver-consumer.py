@@ -46,8 +46,8 @@ def silver_callback(ch, method, properties, body):
 
         # calculate change in price over past week and since previous day
         if len(SILVER_DEQUE) > 1:
-            week_change = SILVER_DEQUE[0] - SILVER_DEQUE[-1]
-            day_change = SILVER_DEQUE[-2] - SILVER_DEQUE[-1]
+            week_change = round(SILVER_DEQUE[0] - SILVER_DEQUE[-1],2)
+            day_change = round(SILVER_DEQUE[-2] - SILVER_DEQUE[-1],2)
 
             # check for price over $27 and send alert
             if silver_price > 27:

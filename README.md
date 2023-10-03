@@ -38,10 +38,6 @@ The original data for this project is from Kaggle and can be found at https://ww
 * silver-consumer.py: Receives messages from the 02-silver queue and processes them to monitor for alert events
 * util_logger.py: Logs and records script events into the logs folder
 
-## Process
-
-* 
-
 ## Running the Code
 
 In a terminal window, navigate to the folder containing this repo, create and activate a virtual environment (see requirements above), and install Pika (see requirements above). Run the producer file by entering:
