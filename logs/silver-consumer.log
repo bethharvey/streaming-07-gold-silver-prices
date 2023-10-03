@@ -1,0 +1,609 @@
+2023-10-02 19:59:21,615.silver-consumer.INFO ==================================================
+2023-10-02 19:59:21,615.silver-consumer.INFO Today is 2023-10-02 at 07:59 PM
+2023-10-02 19:59:21,615.silver-consumer.INFO Running on: posix Darwin 22.5.0
+2023-10-02 19:59:21,615.silver-consumer.INFO Python version:  3.11.2
+2023-10-02 19:59:21,615.silver-consumer.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 7/streaming-07-gold-silver-prices/.venv
+2023-10-02 19:59:21,615.silver-consumer.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 7/streaming-07-gold-silver-prices
+2023-10-02 19:59:21,615.silver-consumer.INFO ==================================================
+2023-10-02 19:59:21,631.silver-consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-02 19:59:21,632.silver-consumer.INFO  [x] Received 10/10/13,21.91
+2023-10-02 19:59:21,632.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 19:59:40,914.silver-consumer.INFO  [x] Received 10/11/13,21.685
+2023-10-02 19:59:40,914.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:00:10,944.silver-consumer.INFO  [x] Received 10/14/13,21.39
+2023-10-02 20:00:10,944.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:00:40,955.silver-consumer.INFO  [x] Received 10/15/13,21.29
+2023-10-02 20:00:40,956.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:01:10,964.silver-consumer.INFO  [x] Received 10/16/13,21.365
+2023-10-02 20:01:10,964.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:01:40,971.silver-consumer.INFO  [x] Received 10/17/13,21.947
+2023-10-02 20:01:40,971.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:02:10,978.silver-consumer.INFO  [x] Received 10/18/13,21.905
+2023-10-02 20:02:10,979.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:02:40,985.silver-consumer.INFO  [x] Received 10/21/13,21.91
+2023-10-02 20:02:40,985.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:03:10,992.silver-consumer.INFO  [x] Received 10/22/13,22.22
+2023-10-02 20:03:10,993.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:03:41,000.silver-consumer.INFO  [x] Received 10/23/13,22.72
+2023-10-02 20:03:41,000.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:04:11,008.silver-consumer.INFO  [x] Received 10/24/13,22.545
+2023-10-02 20:04:11,009.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:04:41,017.silver-consumer.INFO  [x] Received 10/25/13,22.73
+2023-10-02 20:04:41,018.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:05:11,025.silver-consumer.INFO  [x] Received 10/28/13,22.59
+2023-10-02 20:05:11,026.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:05:41,033.silver-consumer.INFO  [x] Received 10/29/13,22.525
+2023-10-02 20:05:41,034.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:06:11,040.silver-consumer.INFO  [x] Received 10/30/13,22.68
+2023-10-02 20:06:11,041.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:06:41,047.silver-consumer.INFO  [x] Received 10/31/13,22.68
+2023-10-02 20:06:41,047.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:07:11,055.silver-consumer.INFO  [x] Received 11/1/13,21.895
+2023-10-02 20:07:11,055.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:07:41,059.silver-consumer.INFO  [x] Received 11/4/13,21.87
+2023-10-02 20:07:41,059.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:08:11,067.silver-consumer.INFO  [x] Received 11/5/13,21.645
+2023-10-02 20:08:11,067.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:08:41,070.silver-consumer.INFO  [x] Received 11/6/13,21.685
+2023-10-02 20:08:41,070.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:09:11,077.silver-consumer.INFO  [x] Received 11/7/13,21.815
+2023-10-02 20:09:11,077.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:09:41,085.silver-consumer.INFO  [x] Received 11/8/13,21.66
+2023-10-02 20:09:41,085.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:10:11,096.silver-consumer.INFO  [x] Received 11/11/13,21.425
+2023-10-02 20:10:11,097.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:10:41,102.silver-consumer.INFO  [x] Received 11/12/13,21.345
+2023-10-02 20:10:41,103.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:11:11,114.silver-consumer.INFO  [x] Received 11/13/13,20.7
+2023-10-02 20:11:11,115.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:11:41,129.silver-consumer.INFO  [x] Received 11/14/13,20.595
+2023-10-02 20:11:41,129.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:12:11,132.silver-consumer.INFO  [x] Received 11/15/13,20.755
+2023-10-02 20:12:11,133.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:12:41,139.silver-consumer.INFO  [x] Received 11/18/13,20.775
+2023-10-02 20:12:41,140.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:13:11,146.silver-consumer.INFO  [x] Received 11/19/13,20.395
+2023-10-02 20:13:11,147.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:13:41,155.silver-consumer.INFO  [x] Received 11/20/13,20.345
+2023-10-02 20:13:41,155.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:14:11,159.silver-consumer.INFO  [x] Received 11/21/13,19.925
+2023-10-02 20:14:11,160.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:14:41,167.silver-consumer.INFO  [x] Received 11/22/13,20.02
+2023-10-02 20:14:41,167.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:15:11,174.silver-consumer.INFO  [x] Received 11/25/13,19.895
+2023-10-02 20:15:11,174.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:15:41,180.silver-consumer.INFO  [x] Received 11/26/13,20.22
+2023-10-02 20:15:41,181.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:16:11,188.silver-consumer.INFO  [x] Received 11/27/13,19.87
+2023-10-02 20:16:11,188.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:16:41,196.silver-consumer.INFO  [x] Received 11/28/13,19.682
+2023-10-02 20:16:41,197.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:17:11,205.silver-consumer.INFO  [x] Received 11/29/13,19.74
+2023-10-02 20:17:11,205.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:17:41,214.silver-consumer.INFO  [x] Received 12/2/13,19.99
+2023-10-02 20:17:41,214.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:18:11,224.silver-consumer.INFO  [x] Received 12/3/13,19.17
+2023-10-02 20:18:11,224.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:18:41,236.silver-consumer.INFO  [x] Received 12/4/13,19.1
+2023-10-02 20:18:41,237.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:19:11,245.silver-consumer.INFO  [x] Received 12/5/13,19.675
+2023-10-02 20:19:11,246.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:19:41,252.silver-consumer.INFO  [x] Received 12/6/13,19.4
+2023-10-02 20:19:41,253.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:20:11,258.silver-consumer.INFO  [x] Received 12/9/13,19.555
+2023-10-02 20:20:11,258.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:20:41,267.silver-consumer.INFO  [x] Received 12/10/13,19.8
+2023-10-02 20:20:41,268.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:21:11,272.silver-consumer.INFO  [x] Received 12/11/13,20.385
+2023-10-02 20:21:11,272.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:21:41,275.silver-consumer.INFO  [x] Received 12/12/13,20.305
+2023-10-02 20:21:41,275.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:22:11,282.silver-consumer.INFO  [x] Received 12/13/13,19.475
+2023-10-02 20:22:11,282.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:22:41,288.silver-consumer.INFO  [x] Received 12/16/13,19.655
+2023-10-02 20:22:41,289.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:23:11,292.silver-consumer.INFO  [x] Received 12/17/13,19.975
+2023-10-02 20:23:11,292.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:23:41,299.silver-consumer.INFO  [x] Received 12/18/13,19.735
+2023-10-02 20:23:41,299.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:24:11,306.silver-consumer.INFO  [x] Received 12/19/13,19.71
+2023-10-02 20:24:11,306.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:24:41,313.silver-consumer.INFO  [x] Received 12/20/13,19.205
+2023-10-02 20:24:41,314.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:25:11,321.silver-consumer.INFO  [x] Received 12/23/13,19.42
+2023-10-02 20:25:11,321.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:25:41,328.silver-consumer.INFO  [x] Received 12/24/13,19.43
+2023-10-02 20:25:41,328.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:26:11,335.silver-consumer.INFO  [x] Received 12/25/13,19.484
+2023-10-02 20:26:11,335.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:26:41,344.silver-consumer.INFO  [x] Received 12/26/13,19.48
+2023-10-02 20:26:41,344.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:27:11,349.silver-consumer.INFO  [x] Received 12/27/13,19.8
+2023-10-02 20:27:11,350.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:27:41,357.silver-consumer.INFO  [x] Received 12/30/13,20.095
+2023-10-02 20:27:41,357.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:28:11,372.silver-consumer.INFO  [x] Received 12/31/13,18.735
+2023-10-02 20:28:11,373.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:28:41,377.silver-consumer.INFO  [x] Received 1/1/14,19.37
+2023-10-02 20:28:41,377.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:29:11,380.silver-consumer.INFO  [x] Received 1/2/14,19.44
+2023-10-02 20:29:11,380.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:29:41,392.silver-consumer.INFO  [x] Received 1/3/14,20.015
+2023-10-02 20:29:41,393.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:30:11,412.silver-consumer.INFO  [x] Received 1/6/14,20.135
+2023-10-02 20:30:11,412.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:30:41,425.silver-consumer.INFO  [x] Received 1/7/14,20.18
+2023-10-02 20:30:41,426.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:31:11,435.silver-consumer.INFO  [x] Received 1/8/14,19.83
+2023-10-02 20:31:11,435.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:31:41,448.silver-consumer.INFO  [x] Received 1/9/14,19.525
+2023-10-02 20:31:41,448.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:32:11,456.silver-consumer.INFO  [x] Received 1/10/14,19.55
+2023-10-02 20:32:11,456.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:32:41,459.silver-consumer.INFO  [x] Received 1/13/14,20.19
+2023-10-02 20:32:41,460.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:33:11,470.silver-consumer.INFO  [x] Received 1/14/14,20.39
+2023-10-02 20:33:11,470.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:33:41,483.silver-consumer.INFO  [x] Received 1/15/14,20.255
+2023-10-02 20:33:41,483.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:34:11,498.silver-consumer.INFO  [x] Received 1/16/14,20.21
+2023-10-02 20:34:11,498.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:34:41,510.silver-consumer.INFO  [x] Received 1/17/14,20.1
+2023-10-02 20:34:41,511.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:35:11,515.silver-consumer.INFO  [x] Received 1/20/14,20.304
+2023-10-02 20:35:11,516.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:35:41,524.silver-consumer.INFO  [x] Received 1/21/14,20.305
+2023-10-02 20:35:41,524.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:36:11,531.silver-consumer.INFO  [x] Received 1/22/14,19.875
+2023-10-02 20:36:11,531.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:36:41,538.silver-consumer.INFO  [x] Received 1/23/14,19.775
+2023-10-02 20:36:41,539.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:37:11,546.silver-consumer.INFO  [x] Received 1/24/14,20
+2023-10-02 20:37:11,546.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:37:41,551.silver-consumer.INFO  [x] Received 1/27/14,19.97
+2023-10-02 20:37:41,551.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:38:11,555.silver-consumer.INFO  [x] Received 1/28/14,19.665
+2023-10-02 20:38:11,555.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:38:41,562.silver-consumer.INFO  [x] Received 1/29/14,19.57
+2023-10-02 20:38:41,563.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:39:11,569.silver-consumer.INFO  [x] Received 1/30/14,19.725
+2023-10-02 20:39:11,569.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:39:41,577.silver-consumer.INFO  [x] Received 1/31/14,19.13
+2023-10-02 20:39:41,577.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:40:11,588.silver-consumer.INFO  [x] Received 2/3/14,19.095
+2023-10-02 20:40:11,588.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:40:41,595.silver-consumer.INFO  [x] Received 2/4/14,19.345
+2023-10-02 20:40:41,596.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:41:11,608.silver-consumer.INFO  [x] Received 2/5/14,19.48
+2023-10-02 20:41:11,608.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:41:41,619.silver-consumer.INFO  [x] Received 2/6/14,19.885
+2023-10-02 20:41:41,619.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:42:11,631.silver-consumer.INFO  [x] Received 2/7/14,19.93
+2023-10-02 20:42:11,631.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:42:41,643.silver-consumer.INFO  [x] Received 2/10/14,19.97
+2023-10-02 20:42:41,644.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:43:11,656.silver-consumer.INFO  [x] Received 2/11/14,20.055
+2023-10-02 20:43:11,656.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:43:41,660.silver-consumer.INFO  [x] Received 2/12/14,20.22
+2023-10-02 20:43:41,661.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:44:11,666.silver-consumer.INFO  [x] Received 2/13/14,20.22
+2023-10-02 20:44:11,666.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:44:41,671.silver-consumer.INFO  [x] Received 2/14/14,20.48
+2023-10-02 20:44:41,671.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:45:11,679.silver-consumer.INFO  [x] Received 2/17/14,21.421
+2023-10-02 20:45:11,679.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:45:41,682.silver-consumer.INFO  [x] Received 2/18/14,21.8
+2023-10-02 20:45:41,682.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:46:11,690.silver-consumer.INFO  [x] Received 2/19/14,21.955
+2023-10-02 20:46:11,690.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:46:41,698.silver-consumer.INFO  [x] Received 2/20/14,21.555
+2023-10-02 20:46:41,698.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:47:11,705.silver-consumer.INFO  [x] Received 2/21/14,21.84
+2023-10-02 20:47:11,706.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:47:41,711.silver-consumer.INFO  [x] Received 2/24/14,21.88
+2023-10-02 20:47:41,712.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:48:11,719.silver-consumer.INFO  [x] Received 2/25/14,21.95
+2023-10-02 20:48:11,719.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:48:41,732.silver-consumer.INFO  [x] Received 2/26/14,21.905
+2023-10-02 20:48:41,733.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:49:11,737.silver-consumer.INFO  [x] Received 2/27/14,21.275
+2023-10-02 20:49:11,737.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:49:41,748.silver-consumer.INFO  [x] Received 2/28/14,21.295
+2023-10-02 20:49:41,748.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:50:11,755.silver-consumer.INFO  [x] Received 3/3/14,21.325
+2023-10-02 20:50:11,756.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:50:41,768.silver-consumer.INFO  [x] Received 3/4/14,21.45
+2023-10-02 20:50:41,768.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:51:11,772.silver-consumer.INFO  [x] Received 3/5/14,21.21
+2023-10-02 20:51:11,772.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:51:41,783.silver-consumer.INFO  [x] Received 3/6/14,21.2
+2023-10-02 20:51:41,784.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:52:11,796.silver-consumer.INFO  [x] Received 3/7/14,21.49
+2023-10-02 20:52:11,796.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:52:41,807.silver-consumer.INFO  [x] Received 3/10/14,20.93
+2023-10-02 20:52:41,807.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:53:11,814.silver-consumer.INFO  [x] Received 3/11/14,20.85
+2023-10-02 20:53:11,814.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:53:41,817.silver-consumer.INFO  [x] Received 3/12/14,20.86
+2023-10-02 20:53:41,817.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:54:11,830.silver-consumer.INFO  [x] Received 3/13/14,21.33
+2023-10-02 20:54:11,831.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:54:41,837.silver-consumer.INFO  [x] Received 3/14/14,21.2
+2023-10-02 20:54:41,838.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:55:11,849.silver-consumer.INFO  [x] Received 3/17/14,21.49
+2023-10-02 20:55:11,850.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:55:41,862.silver-consumer.INFO  [x] Received 3/18/14,21.19
+2023-10-02 20:55:41,862.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:56:11,870.silver-consumer.INFO  [x] Received 3/19/14,20.835
+2023-10-02 20:56:11,871.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:56:41,882.silver-consumer.INFO  [x] Received 3/20/14,20.615
+2023-10-02 20:56:41,883.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:57:11,894.silver-consumer.INFO  [x] Received 3/21/14,20.32
+2023-10-02 20:57:11,894.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:57:41,907.silver-consumer.INFO  [x] Received 3/24/14,19.97
+2023-10-02 20:57:41,907.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:58:11,912.silver-consumer.INFO  [x] Received 3/25/14,19.95
+2023-10-02 20:58:11,912.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:58:41,919.silver-consumer.INFO  [x] Received 3/26/14,20.03
+2023-10-02 20:58:41,919.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:59:11,926.silver-consumer.INFO  [x] Received 3/27/14,19.755
+2023-10-02 20:59:11,926.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 20:59:41,933.silver-consumer.INFO  [x] Received 3/28/14,19.725
+2023-10-02 20:59:41,934.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:00:11,938.silver-consumer.INFO  [x] Received 3/31/14,19.855
+2023-10-02 21:00:11,938.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:00:41,945.silver-consumer.INFO  [x] Received 4/1/14,19.775
+2023-10-02 21:00:41,945.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:01:11,942.silver-consumer.INFO  [x] Received 4/2/14,19.75
+2023-10-02 21:01:11,943.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:01:41,946.silver-consumer.INFO  [x] Received 4/3/14,19.995
+2023-10-02 21:01:41,946.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:02:11,953.silver-consumer.INFO  [x] Received 4/4/14,19.835
+2023-10-02 21:02:11,953.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:02:41,957.silver-consumer.INFO  [x] Received 4/7/14,19.995
+2023-10-02 21:02:41,957.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:03:11,964.silver-consumer.INFO  [x] Received 4/8/14,19.87
+2023-10-02 21:03:11,964.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:03:41,968.silver-consumer.INFO  [x] Received 4/9/14,20.04
+2023-10-02 21:03:41,969.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:04:11,974.silver-consumer.INFO  [x] Received 4/10/14,19.86
+2023-10-02 21:04:11,974.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:04:41,980.silver-consumer.INFO  [x] Received 4/11/14,20.03
+2023-10-02 21:04:41,980.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:05:11,991.silver-consumer.INFO  [x] Received 4/14/14,20.035
+2023-10-02 21:05:11,992.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:05:42,002.silver-consumer.INFO  [x] Received 4/15/14,20.01
+2023-10-02 21:05:42,002.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:06:12,007.silver-consumer.INFO  [x] Received 4/16/14,19.555
+2023-10-02 21:06:12,007.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:06:42,019.silver-consumer.INFO  [x] Received 4/17/14,19.7
+2023-10-02 21:06:42,019.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:07:12,032.silver-consumer.INFO  [x] Received 4/18/14,19.596
+2023-10-02 21:07:12,032.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:07:42,044.silver-consumer.INFO  [x] Received 4/21/14,19.6
+2023-10-02 21:07:42,044.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:08:12,057.silver-consumer.INFO  [x] Received 4/22/14,19.415
+2023-10-02 21:08:12,058.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:08:42,060.silver-consumer.INFO  [x] Received 4/23/14,19.43
+2023-10-02 21:08:42,060.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:09:12,067.silver-consumer.INFO  [x] Received 4/24/14,19.47
+2023-10-02 21:09:12,068.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:09:42,074.silver-consumer.INFO  [x] Received 4/25/14,19.695
+2023-10-02 21:09:42,075.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:10:12,078.silver-consumer.INFO  [x] Received 4/28/14,19.77
+2023-10-02 21:10:12,078.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:10:42,083.silver-consumer.INFO  [x] Received 4/29/14,19.6
+2023-10-02 21:10:42,084.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:11:12,090.silver-consumer.INFO  [x] Received 4/30/14,19.485
+2023-10-02 21:11:12,091.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:11:42,093.silver-consumer.INFO  [x] Received 5/1/14,18.8
+2023-10-02 21:11:42,094.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:12:12,101.silver-consumer.INFO  [x] Received 5/2/14,19.045
+2023-10-02 21:12:12,101.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:12:42,108.silver-consumer.INFO  [x] Received 5/5/14,19.545
+2023-10-02 21:12:42,108.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:13:12,116.silver-consumer.INFO  [x] Received 5/6/14,19.625
+2023-10-02 21:13:12,116.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:13:42,122.silver-consumer.INFO  [x] Received 5/7/14,19.605
+2023-10-02 21:13:42,123.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:14:12,135.silver-consumer.INFO  [x] Received 5/8/14,19.32
+2023-10-02 21:14:12,135.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:14:42,147.silver-consumer.INFO  [x] Received 5/9/14,19.19
+2023-10-02 21:14:42,147.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:15:12,158.silver-consumer.INFO  [x] Received 5/12/14,19.155
+2023-10-02 21:15:12,158.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:15:42,168.silver-consumer.INFO  [x] Received 5/13/14,19.53
+2023-10-02 21:15:42,169.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:16:12,177.silver-consumer.INFO  [x] Received 5/14/14,19.55
+2023-10-02 21:16:12,178.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:16:42,180.silver-consumer.INFO  [x] Received 5/15/14,19.79
+2023-10-02 21:16:42,180.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:17:12,193.silver-consumer.INFO  [x] Received 5/16/14,19.5
+2023-10-02 21:17:12,193.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:17:42,199.silver-consumer.INFO  [x] Received 5/19/14,19.37
+2023-10-02 21:17:42,199.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:18:12,211.silver-consumer.INFO  [x] Received 5/20/14,19.345
+2023-10-02 21:18:12,211.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:18:42,223.silver-consumer.INFO  [x] Received 5/21/14,19.4
+2023-10-02 21:18:42,223.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:19:12,232.silver-consumer.INFO  [x] Received 5/22/14,19.405
+2023-10-02 21:19:12,232.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:19:42,245.silver-consumer.INFO  [x] Received 5/23/14,19.49
+2023-10-02 21:19:42,245.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:20:12,257.silver-consumer.INFO  [x] Received 5/26/14,19.418
+2023-10-02 21:20:12,257.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:20:42,267.silver-consumer.INFO  [x] Received 5/27/14,19.445
+2023-10-02 21:20:42,267.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:21:12,276.silver-consumer.INFO  [x] Received 5/28/14,19.07
+2023-10-02 21:21:12,277.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:21:42,288.silver-consumer.INFO  [x] Received 5/29/14,19.035
+2023-10-02 21:21:42,288.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:22:12,301.silver-consumer.INFO  [x] Received 5/30/14,19.035
+2023-10-02 21:22:12,301.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:22:42,307.silver-consumer.INFO  [x] Received 6/2/14,18.795
+2023-10-02 21:22:42,308.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:23:12,315.silver-consumer.INFO  [x] Received 6/3/14,18.755
+2023-10-02 21:23:12,315.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:23:42,322.silver-consumer.INFO  [x] Received 6/4/14,18.78
+2023-10-02 21:23:42,323.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:24:12,329.silver-consumer.INFO  [x] Received 6/5/14,18.8
+2023-10-02 21:24:12,330.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:24:42,336.silver-consumer.INFO  [x] Received 6/6/14,19.04
+2023-10-02 21:24:42,336.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:25:12,342.silver-consumer.INFO  [x] Received 6/9/14,19.02
+2023-10-02 21:25:12,342.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:25:42,348.silver-consumer.INFO  [x] Received 6/10/14,19.055
+2023-10-02 21:25:42,348.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:26:12,355.silver-consumer.INFO  [x] Received 6/11/14,19.185
+2023-10-02 21:26:12,355.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:26:42,362.silver-consumer.INFO  [x] Received 6/12/14,19.19
+2023-10-02 21:26:42,362.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:27:12,369.silver-consumer.INFO  [x] Received 6/13/14,19.525
+2023-10-02 21:27:12,370.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:27:42,382.silver-consumer.INFO  [x] Received 6/16/14,19.67
+2023-10-02 21:27:42,382.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:28:12,393.silver-consumer.INFO  [x] Received 6/17/14,19.665
+2023-10-02 21:28:12,393.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:28:42,396.silver-consumer.INFO  [x] Received 6/18/14,19.74
+2023-10-02 21:28:42,396.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:29:12,409.silver-consumer.INFO  [x] Received 6/19/14,19.895
+2023-10-02 21:29:12,409.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:29:42,422.silver-consumer.INFO  [x] Received 6/20/14,20.77
+2023-10-02 21:29:42,422.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:30:12,434.silver-consumer.INFO  [x] Received 6/23/14,20.89
+2023-10-02 21:30:12,434.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:30:42,446.silver-consumer.INFO  [x] Received 6/24/14,20.925
+2023-10-02 21:30:42,446.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:31:12,458.silver-consumer.INFO  [x] Received 6/25/14,20.945
+2023-10-02 21:31:12,459.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:31:42,468.silver-consumer.INFO  [x] Received 6/26/14,21.055
+2023-10-02 21:31:42,468.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:32:12,469.silver-consumer.INFO  [x] Received 6/27/14,21.155
+2023-10-02 21:32:12,470.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:32:42,475.silver-consumer.INFO  [x] Received 6/30/14,21.06
+2023-10-02 21:32:42,475.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:33:12,480.silver-consumer.INFO  [x] Received 7/1/14,21.07
+2023-10-02 21:33:12,481.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:33:42,486.silver-consumer.INFO  [x] Received 7/2/14,21.085
+2023-10-02 21:33:42,487.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:34:12,494.silver-consumer.INFO  [x] Received 7/3/14,21.18
+2023-10-02 21:34:12,494.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:34:42,501.silver-consumer.INFO  [x] Received 7/4/14,21.137
+2023-10-02 21:34:42,501.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:35:12,506.silver-consumer.INFO  [x] Received 7/7/14,21.2
+2023-10-02 21:35:12,506.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:35:42,509.silver-consumer.INFO  [x] Received 7/8/14,21.1
+2023-10-02 21:35:42,510.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:36:12,516.silver-consumer.INFO  [x] Received 7/9/14,21.085
+2023-10-02 21:36:12,517.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:36:42,523.silver-consumer.INFO  [x] Received 7/10/14,21.12
+2023-10-02 21:36:42,524.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:37:12,531.silver-consumer.INFO  [x] Received 7/11/14,21.465
+2023-10-02 21:37:12,531.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:37:42,538.silver-consumer.INFO  [x] Received 7/14/14,21.485
+2023-10-02 21:37:42,538.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:38:12,545.silver-consumer.INFO  [x] Received 7/15/14,20.975
+2023-10-02 21:38:12,545.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:38:42,551.silver-consumer.INFO  [x] Received 7/16/14,20.75
+2023-10-02 21:38:42,551.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:39:12,563.silver-consumer.INFO  [x] Received 7/17/14,20.815
+2023-10-02 21:39:12,563.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:39:42,575.silver-consumer.INFO  [x] Received 7/18/14,21.205
+2023-10-02 21:39:42,576.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:40:12,583.silver-consumer.INFO  [x] Received 7/21/14,20.93
+2023-10-02 21:40:12,584.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:40:42,588.silver-consumer.INFO  [x] Received 7/22/14,20.97
+2023-10-02 21:40:42,588.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:41:12,600.silver-consumer.INFO  [x] Received 7/23/14,21.025
+2023-10-02 21:41:12,601.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:41:42,612.silver-consumer.INFO  [x] Received 7/24/14,20.96
+2023-10-02 21:41:42,613.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:42:12,625.silver-consumer.INFO  [x] Received 7/25/14,20.42
+2023-10-02 21:42:12,625.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:42:42,631.silver-consumer.INFO  [x] Received 7/28/14,20.715
+2023-10-02 21:42:42,631.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:43:12,641.silver-consumer.INFO  [x] Received 7/29/14,20.63
+2023-10-02 21:43:12,641.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:43:42,647.silver-consumer.INFO  [x] Received 7/30/14,20.6
+2023-10-02 21:43:42,647.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:44:12,650.silver-consumer.INFO  [x] Received 7/31/14,20.41
+2023-10-02 21:44:12,650.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:44:42,662.silver-consumer.INFO  [x] Received 8/1/14,20.4
+2023-10-02 21:44:42,663.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:45:12,673.silver-consumer.INFO  [x] Received 8/4/14,20.335
+2023-10-02 21:45:12,674.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:45:42,680.silver-consumer.INFO  [x] Received 8/5/14,20.18
+2023-10-02 21:45:42,681.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:46:12,685.silver-consumer.INFO  [x] Received 8/6/14,19.785
+2023-10-02 21:46:12,686.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:46:42,691.silver-consumer.INFO  [x] Received 8/7/14,20.05
+2023-10-02 21:46:42,691.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:47:12,696.silver-consumer.INFO  [x] Received 8/8/14,19.995
+2023-10-02 21:47:12,697.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:47:42,704.silver-consumer.INFO  [x] Received 8/11/14,19.92
+2023-10-02 21:47:42,704.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:48:12,707.silver-consumer.INFO  [x] Received 8/12/14,20.015
+2023-10-02 21:48:12,708.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:48:42,713.silver-consumer.INFO  [x] Received 8/13/14,19.925
+2023-10-02 21:48:42,713.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:49:12,719.silver-consumer.INFO  [x] Received 8/14/14,19.82
+2023-10-02 21:49:12,719.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:49:42,724.silver-consumer.INFO  [x] Received 8/15/14,19.865
+2023-10-02 21:49:42,724.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:50:12,729.silver-consumer.INFO  [x] Received 8/18/14,19.58
+2023-10-02 21:50:12,729.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:50:42,741.silver-consumer.INFO  [x] Received 8/19/14,19.595
+2023-10-02 21:50:42,741.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:51:12,746.silver-consumer.INFO  [x] Received 8/20/14,19.49
+2023-10-02 21:51:12,746.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:51:42,752.silver-consumer.INFO  [x] Received 8/21/14,19.535
+2023-10-02 21:51:42,752.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:52:12,764.silver-consumer.INFO  [x] Received 8/22/14,19.49
+2023-10-02 21:52:12,764.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:52:42,775.silver-consumer.INFO  [x] Received 8/25/14,19.485
+2023-10-02 21:52:42,775.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:53:12,787.silver-consumer.INFO  [x] Received 8/26/14,19.4
+2023-10-02 21:53:12,787.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:53:42,794.silver-consumer.INFO  [x] Received 8/27/14,19.39
+2023-10-02 21:53:42,794.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:54:12,798.silver-consumer.INFO  [x] Received 8/28/14,19.48
+2023-10-02 21:54:12,799.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:54:42,810.silver-consumer.INFO  [x] Received 8/29/14,19.54
+2023-10-02 21:54:42,810.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:55:12,806.silver-consumer.INFO  [x] Received 9/1/14,19.492
+2023-10-02 21:55:12,806.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:55:42,794.silver-consumer.INFO  [x] Received 9/2/14,19.505
+2023-10-02 21:55:42,795.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:56:12,804.silver-consumer.INFO  [x] Received 9/3/14,19.21
+2023-10-02 21:56:12,805.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:56:42,816.silver-consumer.INFO  [x] Received 9/4/14,19.065
+2023-10-02 21:56:42,816.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:57:12,825.silver-consumer.INFO  [x] Received 9/5/14,19.065
+2023-10-02 21:57:12,825.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:57:42,837.silver-consumer.INFO  [x] Received 9/8/14,19.19
+2023-10-02 21:57:42,837.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:58:12,848.silver-consumer.INFO  [x] Received 9/9/14,19.055
+2023-10-02 21:58:12,849.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:58:42,856.silver-consumer.INFO  [x] Received 9/10/14,19.08
+2023-10-02 21:58:42,856.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:59:12,862.silver-consumer.INFO  [x] Received 9/11/14,18.96
+2023-10-02 21:59:12,862.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 21:59:42,870.silver-consumer.INFO  [x] Received 9/12/14,18.685
+2023-10-02 21:59:42,870.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:00:12,877.silver-consumer.INFO  [x] Received 9/15/14,18.61
+2023-10-02 22:00:12,877.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:00:42,882.silver-consumer.INFO  [x] Received 9/16/14,18.645
+2023-10-02 22:00:42,882.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:01:12,889.silver-consumer.INFO  [x] Received 9/17/14,18.695
+2023-10-02 22:01:12,889.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:01:42,894.silver-consumer.INFO  [x] Received 9/18/14,18.51
+2023-10-02 22:01:42,894.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:02:12,899.silver-consumer.INFO  [x] Received 9/19/14,18.525
+2023-10-02 22:02:12,899.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:02:42,906.silver-consumer.INFO  [x] Received 9/22/14,17.855
+2023-10-02 22:02:42,906.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:03:12,913.silver-consumer.INFO  [x] Received 9/23/14,17.725
+2023-10-02 22:03:12,913.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:03:42,919.silver-consumer.INFO  [x] Received 9/24/14,17.765
+2023-10-02 22:03:42,919.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:04:12,925.silver-consumer.INFO  [x] Received 9/25/14,17.675
+2023-10-02 22:04:12,926.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:04:42,933.silver-consumer.INFO  [x] Received 9/26/14,17.5
+2023-10-02 22:04:42,933.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:05:12,937.silver-consumer.INFO  [x] Received 9/29/14,17.575
+2023-10-02 22:05:12,937.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:05:42,946.silver-consumer.INFO  [x] Received 9/30/14,17.46
+2023-10-02 22:05:42,946.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:06:12,950.silver-consumer.INFO  [x] Received 10/1/14,16.975
+2023-10-02 22:06:12,950.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:06:42,958.silver-consumer.INFO  [x] Received 10/2/14,17.19
+2023-10-02 22:06:42,958.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:07:12,969.silver-consumer.INFO  [x] Received 10/3/14,17.06
+2023-10-02 22:07:12,969.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:07:42,980.silver-consumer.INFO  [x] Received 10/6/14,16.805
+2023-10-02 22:07:42,980.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:08:12,987.silver-consumer.INFO  [x] Received 10/7/14,17.34
+2023-10-02 22:08:12,988.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:08:42,991.silver-consumer.INFO  [x] Received 10/8/14,17.195
+2023-10-02 22:08:42,991.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:09:13,003.silver-consumer.INFO  [x] Received 10/9/14,17.37
+2023-10-02 22:09:13,004.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:09:43,007.silver-consumer.INFO  [x] Received 10/10/14,17.36
+2023-10-02 22:09:43,008.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:10:13,014.silver-consumer.INFO  [x] Received 10/13/14,17.36
+2023-10-02 22:10:13,015.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:10:43,021.silver-consumer.INFO  [x] Received 10/14/14,17.5
+2023-10-02 22:10:43,021.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:11:13,028.silver-consumer.INFO  [x] Received 10/15/14,17.38
+2023-10-02 22:11:13,028.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:11:43,035.silver-consumer.INFO  [x] Received 10/16/14,17.45
+2023-10-02 22:11:43,035.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:12:13,039.silver-consumer.INFO  [x] Received 10/17/14,17.37
+2023-10-02 22:12:13,039.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:12:43,044.silver-consumer.INFO  [x] Received 10/20/14,17.335
+2023-10-02 22:12:43,045.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:13:13,050.silver-consumer.INFO  [x] Received 10/21/14,17.42
+2023-10-02 22:13:13,050.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:13:43,056.silver-consumer.INFO  [x] Received 10/22/14,17.52
+2023-10-02 22:13:43,057.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:14:13,063.silver-consumer.INFO  [x] Received 10/23/14,17.175
+2023-10-02 22:14:13,063.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:14:43,068.silver-consumer.INFO  [x] Received 10/24/14,17.2
+2023-10-02 22:14:43,068.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:15:13,070.silver-consumer.INFO  [x] Received 10/27/14,17.185
+2023-10-02 22:15:13,071.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:15:43,077.silver-consumer.INFO  [x] Received 10/28/14,17.095
+2023-10-02 22:15:43,078.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:16:13,087.silver-consumer.INFO  [x] Received 10/29/14,17.2
+2023-10-02 22:16:13,087.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:16:43,099.silver-consumer.INFO  [x] Received 10/30/14,17.095
+2023-10-02 22:16:43,099.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:17:13,102.silver-consumer.INFO  [x] Received 10/31/14,16.495
+2023-10-02 22:17:13,102.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:17:43,109.silver-consumer.INFO  [x] Received 11/3/14,16.11
+2023-10-02 22:17:43,109.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:18:13,112.silver-consumer.INFO  [x] Received 11/4/14,16.115
+2023-10-02 22:18:13,113.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:18:43,116.silver-consumer.INFO  [x] Received 11/5/14,16.02
+2023-10-02 22:18:43,116.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:19:13,123.silver-consumer.INFO  [x] Received 11/6/14,15.34
+2023-10-02 22:19:13,123.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:19:43,125.silver-consumer.INFO  [x] Received 11/7/14,15.76
+2023-10-02 22:19:43,125.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:20:13,131.silver-consumer.INFO  [x] Received 11/10/14,15.8
+2023-10-02 22:20:13,131.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:20:43,138.silver-consumer.INFO  [x] Received 11/11/14,15.595
+2023-10-02 22:20:43,139.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:21:13,146.silver-consumer.INFO  [x] Received 11/12/14,15.685
+2023-10-02 22:21:13,147.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:21:43,153.silver-consumer.INFO  [x] Received 11/13/14,15.64
+2023-10-02 22:21:43,153.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:22:13,160.silver-consumer.INFO  [x] Received 11/14/14,15.63
+2023-10-02 22:22:13,160.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:22:43,167.silver-consumer.INFO  [x] Received 11/17/14,16.305
+2023-10-02 22:22:43,167.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:23:13,173.silver-consumer.INFO  [x] Received 11/18/14,16.13
+2023-10-02 22:23:13,174.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:23:43,181.silver-consumer.INFO  [x] Received 11/19/14,16.165
+2023-10-02 22:23:43,181.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:24:13,192.silver-consumer.INFO  [x] Received 11/20/14,16.12
+2023-10-02 22:24:13,193.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:24:43,200.silver-consumer.INFO  [x] Received 11/21/14,16.315
+2023-10-02 22:24:43,201.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:25:13,208.silver-consumer.INFO  [x] Received 11/24/14,16.46
+2023-10-02 22:25:13,208.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:25:43,215.silver-consumer.INFO  [x] Received 11/25/14,16.515
+2023-10-02 22:25:43,216.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:26:13,221.silver-consumer.INFO  [x] Received 11/26/14,16.54
+2023-10-02 22:26:13,222.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:26:43,228.silver-consumer.INFO  [x] Received 11/27/14,16.606
+2023-10-02 22:26:43,228.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:27:13,235.silver-consumer.INFO  [x] Received 11/28/14,16.265
+2023-10-02 22:27:13,235.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:27:43,242.silver-consumer.INFO  [x] Received 12/1/14,14.52
+2023-10-02 22:27:43,242.silver-consumer.INFO Silver price alert on 12/1/14! The price of silver is $14.52, so now might be a good time to buy!
+                        That's a $1.7950000000000017 change since last week and a $1.745000000000001 change since yesterday.
+2023-10-02 22:27:44,457.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:28:13,250.silver-consumer.INFO  [x] Received 12/2/14,16.495
+2023-10-02 22:28:13,251.silver-consumer.INFO  [x] Processed silver price.
+2023-10-02 22:28:19,385.silver-consumer.WARNING  User interrupted continuous listening process.

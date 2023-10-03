@@ -1,0 +1,659 @@
+2023-10-02 19:47:30,550.gold-consumer.INFO ==================================================
+2023-10-02 19:47:30,550.gold-consumer.INFO Today is 2023-10-02 at 07:47 PM
+2023-10-02 19:47:30,550.gold-consumer.INFO Running on: posix Darwin 22.5.0
+2023-10-02 19:47:30,550.gold-consumer.INFO Python version:  3.11.2
+2023-10-02 19:47:30,550.gold-consumer.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 7/streaming-07-gold-silver-prices/.venv
+2023-10-02 19:47:30,550.gold-consumer.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 7/streaming-07-gold-silver-prices
+2023-10-02 19:47:30,550.gold-consumer.INFO ==================================================
+2023-10-02 19:47:30,567.gold-consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-02 19:47:30,567.gold-consumer.INFO  [x] Received 9/6/13,1366.7
+2023-10-02 19:47:30,567.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:47:40,757.gold-consumer.INFO  [x] Received 9/9/13,1391.1
+2023-10-02 19:47:40,757.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:48:10,763.gold-consumer.INFO  [x] Received 9/10/13,1387.1
+2023-10-02 19:48:10,763.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:48:40,769.gold-consumer.INFO  [x] Received 9/11/13,1364.2
+2023-10-02 19:48:40,770.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:49:10,777.gold-consumer.INFO  [x] Received 9/12/13,1329.8
+2023-10-02 19:49:10,777.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:49:40,783.gold-consumer.INFO  [x] Received 9/13/13,1318
+2023-10-02 19:49:40,783.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:50:10,790.gold-consumer.INFO  [x] Received 9/16/13,1333.5
+2023-10-02 19:50:10,791.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:50:40,797.gold-consumer.INFO  [x] Received 9/17/13,1313.6
+2023-10-02 19:50:40,798.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:51:10,805.gold-consumer.INFO  [x] Received 9/18/13,1294
+2023-10-02 19:51:10,805.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:51:40,812.gold-consumer.INFO  [x] Received 9/19/13,1370.2
+2023-10-02 19:51:40,812.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:52:10,819.gold-consumer.INFO  [x] Received 9/20/13,1366.2
+2023-10-02 19:52:10,819.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:52:40,821.gold-consumer.INFO  [x] Received 9/23/13,1327
+2023-10-02 19:52:40,821.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:53:10,828.gold-consumer.INFO  [x] Received 9/24/13,1321.5
+2023-10-02 19:53:10,828.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:53:40,835.gold-consumer.INFO  [x] Received 9/25/13,1323.5
+2023-10-02 19:53:40,835.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:54:10,842.gold-consumer.INFO  [x] Received 9/26/13,1333.1
+2023-10-02 19:54:10,843.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:54:40,849.gold-consumer.INFO  [x] Received 9/27/13,1323.7
+2023-10-02 19:54:40,849.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:55:10,855.gold-consumer.INFO  [x] Received 9/30/13,1327.3
+2023-10-02 19:55:10,855.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:55:40,864.gold-consumer.INFO  [x] Received 10/1/13,1328.2
+2023-10-02 19:55:40,864.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:56:10,871.gold-consumer.INFO  [x] Received 10/2/13,1287.5
+2023-10-02 19:56:10,872.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:56:40,878.gold-consumer.INFO  [x] Received 10/3/13,1316.5
+2023-10-02 19:56:40,878.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:57:10,881.gold-consumer.INFO  [x] Received 10/4/13,1317.4
+2023-10-02 19:57:10,882.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:57:40,889.gold-consumer.INFO  [x] Received 10/7/13,1312.3
+2023-10-02 19:57:40,890.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:58:10,898.gold-consumer.INFO  [x] Received 10/8/13,1319.7
+2023-10-02 19:58:10,898.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:58:40,905.gold-consumer.INFO  [x] Received 10/9/13,1304.5
+2023-10-02 19:58:40,905.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:59:10,908.gold-consumer.INFO  [x] Received 10/10/13,1307
+2023-10-02 19:59:10,908.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 19:59:40,913.gold-consumer.INFO  [x] Received 10/11/13,1268
+2023-10-02 19:59:40,913.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:00:10,944.gold-consumer.INFO  [x] Received 10/14/13,1275.5
+2023-10-02 20:00:10,944.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:00:40,955.gold-consumer.INFO  [x] Received 10/15/13,1273.6
+2023-10-02 20:00:40,955.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:01:10,963.gold-consumer.INFO  [x] Received 10/16/13,1281.4
+2023-10-02 20:01:10,964.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:01:40,971.gold-consumer.INFO  [x] Received 10/17/13,1314
+2023-10-02 20:01:40,971.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:02:10,978.gold-consumer.INFO  [x] Received 10/18/13,1318.8
+2023-10-02 20:02:10,978.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:02:40,985.gold-consumer.INFO  [x] Received 10/21/13,1316
+2023-10-02 20:02:40,985.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:03:10,992.gold-consumer.INFO  [x] Received 10/22/13,1315.5
+2023-10-02 20:03:10,992.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:03:40,999.gold-consumer.INFO  [x] Received 10/23/13,1340.1
+2023-10-02 20:03:40,999.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:04:11,006.gold-consumer.INFO  [x] Received 10/24/13,1332.5
+2023-10-02 20:04:11,007.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:04:41,017.gold-consumer.INFO  [x] Received 10/25/13,1346.9
+2023-10-02 20:04:41,018.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:05:11,023.gold-consumer.INFO  [x] Received 10/28/13,1352.7
+2023-10-02 20:05:11,024.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:05:41,032.gold-consumer.INFO  [x] Received 10/29/13,1352.6
+2023-10-02 20:05:41,032.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:06:11,040.gold-consumer.INFO  [x] Received 10/30/13,1343.1
+2023-10-02 20:06:11,040.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:06:41,047.gold-consumer.INFO  [x] Received 10/31/13,1341.7
+2023-10-02 20:06:41,047.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:07:11,054.gold-consumer.INFO  [x] Received 11/1/13,1323.1
+2023-10-02 20:07:11,055.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:07:41,059.gold-consumer.INFO  [x] Received 11/4/13,1313
+2023-10-02 20:07:41,059.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:08:11,066.gold-consumer.INFO  [x] Received 11/5/13,1313.9
+2023-10-02 20:08:11,066.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:08:41,069.gold-consumer.INFO  [x] Received 11/6/13,1312.3
+2023-10-02 20:08:41,070.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:09:11,077.gold-consumer.INFO  [x] Received 11/7/13,1317.5
+2023-10-02 20:09:11,077.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:09:41,084.gold-consumer.INFO  [x] Received 11/8/13,1307.8
+2023-10-02 20:09:41,084.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:10:11,096.gold-consumer.INFO  [x] Received 11/11/13,1288.3
+2023-10-02 20:10:11,096.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:10:41,102.gold-consumer.INFO  [x] Received 11/12/13,1281.4
+2023-10-02 20:10:41,103.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:11:11,114.gold-consumer.INFO  [x] Received 11/13/13,1265.3
+2023-10-02 20:11:11,114.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:11:41,128.gold-consumer.INFO  [x] Received 11/14/13,1281.4
+2023-10-02 20:11:41,129.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:12:11,131.gold-consumer.INFO  [x] Received 11/15/13,1287
+2023-10-02 20:12:11,131.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:12:41,139.gold-consumer.INFO  [x] Received 11/18/13,1288.9
+2023-10-02 20:12:41,139.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:13:11,146.gold-consumer.INFO  [x] Received 11/19/13,1275
+2023-10-02 20:13:11,147.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:13:41,153.gold-consumer.INFO  [x] Received 11/20/13,1249.4
+2023-10-02 20:13:41,154.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:14:11,159.gold-consumer.INFO  [x] Received 11/21/13,1241.8
+2023-10-02 20:14:11,159.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:14:41,166.gold-consumer.INFO  [x] Received 11/22/13,1242.3
+2023-10-02 20:14:41,167.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:15:11,173.gold-consumer.INFO  [x] Received 11/25/13,1230.8
+2023-10-02 20:15:11,174.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:15:41,180.gold-consumer.INFO  [x] Received 11/26/13,1249.5
+2023-10-02 20:15:41,180.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:16:11,187.gold-consumer.INFO  [x] Received 11/27/13,1241.1
+2023-10-02 20:16:11,188.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:16:41,195.gold-consumer.INFO  [x] Received 11/28/13,1237.9
+2023-10-02 20:16:41,195.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:17:11,204.gold-consumer.INFO  [x] Received 11/29/13,1244.6
+2023-10-02 20:17:11,204.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:17:41,213.gold-consumer.INFO  [x] Received 12/2/13,1250.6
+2023-10-02 20:17:41,214.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:18:11,223.gold-consumer.INFO  [x] Received 12/3/13,1219.5
+2023-10-02 20:18:11,224.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:18:41,235.gold-consumer.INFO  [x] Received 12/4/13,1245
+2023-10-02 20:18:41,236.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:19:11,243.gold-consumer.INFO  [x] Received 12/5/13,1243.1
+2023-10-02 20:19:11,244.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:19:41,251.gold-consumer.INFO  [x] Received 12/6/13,1225
+2023-10-02 20:19:41,251.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:20:11,257.gold-consumer.INFO  [x] Received 12/9/13,1229.9
+2023-10-02 20:20:11,257.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:20:41,265.gold-consumer.INFO  [x] Received 12/10/13,1260
+2023-10-02 20:20:41,266.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:21:11,270.gold-consumer.INFO  [x] Received 12/11/13,1261
+2023-10-02 20:21:11,271.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:21:41,274.gold-consumer.INFO  [x] Received 12/12/13,1252.3
+2023-10-02 20:21:41,274.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:22:11,280.gold-consumer.INFO  [x] Received 12/13/13,1226.1
+2023-10-02 20:22:11,280.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:22:41,288.gold-consumer.INFO  [x] Received 12/16/13,1237.3
+2023-10-02 20:22:41,289.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:23:11,291.gold-consumer.INFO  [x] Received 12/17/13,1239.5
+2023-10-02 20:23:11,292.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:23:41,298.gold-consumer.INFO  [x] Received 12/18/13,1218.4
+2023-10-02 20:23:41,298.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:24:11,305.gold-consumer.INFO  [x] Received 12/19/13,1217.8
+2023-10-02 20:24:11,306.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:24:41,313.gold-consumer.INFO  [x] Received 12/20/13,1188.8
+2023-10-02 20:24:41,313.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:25:11,320.gold-consumer.INFO  [x] Received 12/23/13,1202.5
+2023-10-02 20:25:11,320.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:25:41,327.gold-consumer.INFO  [x] Received 12/24/13,1197.8
+2023-10-02 20:25:41,328.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:26:11,335.gold-consumer.INFO  [x] Received 12/25/13,1203.3
+2023-10-02 20:26:11,335.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:26:41,342.gold-consumer.INFO  [x] Received 12/26/13,1203.8
+2023-10-02 20:26:41,343.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:27:11,349.gold-consumer.INFO  [x] Received 12/27/13,1210.9
+2023-10-02 20:27:11,349.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:27:41,355.gold-consumer.INFO  [x] Received 12/30/13,1213.8
+2023-10-02 20:27:41,356.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:28:11,370.gold-consumer.INFO  [x] Received 12/31/13,1197.4
+2023-10-02 20:28:11,370.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:28:41,376.gold-consumer.INFO  [x] Received 1/1/14,1202.3
+2023-10-02 20:28:41,377.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:29:11,379.gold-consumer.INFO  [x] Received 1/2/14,1226.5
+2023-10-02 20:29:11,379.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:29:41,390.gold-consumer.INFO  [x] Received 1/3/14,1222.3
+2023-10-02 20:29:41,391.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:30:11,410.gold-consumer.INFO  [x] Received 1/6/14,1237.4
+2023-10-02 20:30:11,411.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:30:41,424.gold-consumer.INFO  [x] Received 1/7/14,1237
+2023-10-02 20:30:41,425.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:31:11,435.gold-consumer.INFO  [x] Received 1/8/14,1231
+2023-10-02 20:31:11,435.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:31:41,448.gold-consumer.INFO  [x] Received 1/9/14,1224.9
+2023-10-02 20:31:41,448.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:32:11,455.gold-consumer.INFO  [x] Received 1/10/14,1227.1
+2023-10-02 20:32:11,456.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:32:41,459.gold-consumer.INFO  [x] Received 1/13/14,1247.7
+2023-10-02 20:32:41,459.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:33:11,469.gold-consumer.INFO  [x] Received 1/14/14,1252.7
+2023-10-02 20:33:11,470.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:33:41,482.gold-consumer.INFO  [x] Received 1/15/14,1244.3
+2023-10-02 20:33:41,482.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:34:11,497.gold-consumer.INFO  [x] Received 1/16/14,1241.8
+2023-10-02 20:34:11,497.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:34:41,510.gold-consumer.INFO  [x] Received 1/17/14,1241.7
+2023-10-02 20:34:41,511.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:35:11,515.gold-consumer.INFO  [x] Received 1/20/14,1251.9
+2023-10-02 20:35:11,515.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:35:41,522.gold-consumer.INFO  [x] Received 1/21/14,1254.1
+2023-10-02 20:35:41,523.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:36:11,530.gold-consumer.INFO  [x] Received 1/22/14,1240.5
+2023-10-02 20:36:11,531.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:36:41,538.gold-consumer.INFO  [x] Received 1/23/14,1235.1
+2023-10-02 20:36:41,538.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:37:11,545.gold-consumer.INFO  [x] Received 1/24/14,1264.3
+2023-10-02 20:37:11,545.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:37:41,550.gold-consumer.INFO  [x] Received 1/27/14,1269.9
+2023-10-02 20:37:41,551.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:38:11,554.gold-consumer.INFO  [x] Received 1/28/14,1254.9
+2023-10-02 20:38:11,555.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:38:41,562.gold-consumer.INFO  [x] Received 1/29/14,1255.8
+2023-10-02 20:38:41,562.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:39:11,568.gold-consumer.INFO  [x] Received 1/30/14,1267.2
+2023-10-02 20:39:11,568.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:39:41,575.gold-consumer.INFO  [x] Received 1/31/14,1244
+2023-10-02 20:39:41,575.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:40:11,587.gold-consumer.INFO  [x] Received 2/3/14,1242
+2023-10-02 20:40:11,588.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:40:41,594.gold-consumer.INFO  [x] Received 2/4/14,1257.9
+2023-10-02 20:40:41,595.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:41:11,608.gold-consumer.INFO  [x] Received 2/5/14,1254.2
+2023-10-02 20:41:11,608.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:41:41,618.gold-consumer.INFO  [x] Received 2/6/14,1257.7
+2023-10-02 20:41:41,619.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:42:11,630.gold-consumer.INFO  [x] Received 2/7/14,1256.9
+2023-10-02 20:42:11,630.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:42:41,642.gold-consumer.INFO  [x] Received 2/10/14,1265.4
+2023-10-02 20:42:41,643.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:43:11,655.gold-consumer.INFO  [x] Received 2/11/14,1274.2
+2023-10-02 20:43:11,655.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:43:41,660.gold-consumer.INFO  [x] Received 2/12/14,1290.1
+2023-10-02 20:43:41,660.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:44:11,666.gold-consumer.INFO  [x] Received 2/13/14,1290.8
+2023-10-02 20:44:11,666.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:44:41,670.gold-consumer.INFO  [x] Received 2/14/14,1302.2
+2023-10-02 20:44:41,671.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:45:11,678.gold-consumer.INFO  [x] Received 2/17/14,1318.6
+2023-10-02 20:45:11,679.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:45:41,682.gold-consumer.INFO  [x] Received 2/18/14,1329
+2023-10-02 20:45:41,682.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:46:11,689.gold-consumer.INFO  [x] Received 2/19/14,1322
+2023-10-02 20:46:11,690.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:46:41,697.gold-consumer.INFO  [x] Received 2/20/14,1322.4
+2023-10-02 20:46:41,697.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:47:11,704.gold-consumer.INFO  [x] Received 2/21/14,1323
+2023-10-02 20:47:11,704.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:47:41,711.gold-consumer.INFO  [x] Received 2/24/14,1336
+2023-10-02 20:47:41,711.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:48:11,717.gold-consumer.INFO  [x] Received 2/25/14,1336.4
+2023-10-02 20:48:11,718.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:48:41,730.gold-consumer.INFO  [x] Received 2/26/14,1341.3
+2023-10-02 20:48:41,731.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:49:11,736.gold-consumer.INFO  [x] Received 2/27/14,1329.5
+2023-10-02 20:49:11,736.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:49:41,747.gold-consumer.INFO  [x] Received 2/28/14,1331.3
+2023-10-02 20:49:41,748.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:50:11,755.gold-consumer.INFO  [x] Received 3/3/14,1332.4
+2023-10-02 20:50:11,755.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:50:41,767.gold-consumer.INFO  [x] Received 3/4/14,1350
+2023-10-02 20:50:41,768.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:51:11,771.gold-consumer.INFO  [x] Received 3/5/14,1334.8
+2023-10-02 20:51:11,772.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:51:41,783.gold-consumer.INFO  [x] Received 3/6/14,1337
+2023-10-02 20:51:41,783.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:52:11,795.gold-consumer.INFO  [x] Received 3/7/14,1350.7
+2023-10-02 20:52:11,796.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:52:41,807.gold-consumer.INFO  [x] Received 3/10/14,1340.8
+2023-10-02 20:52:41,807.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:53:11,813.gold-consumer.INFO  [x] Received 3/11/14,1339.5
+2023-10-02 20:53:11,814.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:53:41,816.gold-consumer.INFO  [x] Received 3/12/14,1348.8
+2023-10-02 20:53:41,816.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:54:11,829.gold-consumer.INFO  [x] Received 3/13/14,1367.8
+2023-10-02 20:54:11,830.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:54:41,837.gold-consumer.INFO  [x] Received 3/14/14,1370.9
+2023-10-02 20:54:41,837.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:55:11,849.gold-consumer.INFO  [x] Received 3/17/14,1383.1
+2023-10-02 20:55:11,849.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:55:41,862.gold-consumer.INFO  [x] Received 3/18/14,1356.6
+2023-10-02 20:55:41,862.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:56:11,869.gold-consumer.INFO  [x] Received 3/19/14,1331.2
+2023-10-02 20:56:11,870.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:56:41,882.gold-consumer.INFO  [x] Received 3/20/14,1331.7
+2023-10-02 20:56:41,882.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:57:11,894.gold-consumer.INFO  [x] Received 3/21/14,1330.2
+2023-10-02 20:57:11,894.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:57:41,906.gold-consumer.INFO  [x] Received 3/24/14,1310.3
+2023-10-02 20:57:41,906.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:58:11,911.gold-consumer.INFO  [x] Received 3/25/14,1309.2
+2023-10-02 20:58:11,911.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:58:41,918.gold-consumer.INFO  [x] Received 3/26/14,1312
+2023-10-02 20:58:41,918.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:59:11,926.gold-consumer.INFO  [x] Received 3/27/14,1305.2
+2023-10-02 20:59:11,926.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 20:59:41,933.gold-consumer.INFO  [x] Received 3/28/14,1292.3
+2023-10-02 20:59:41,933.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:00:11,937.gold-consumer.INFO  [x] Received 3/31/14,1295
+2023-10-02 21:00:11,938.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:00:41,944.gold-consumer.INFO  [x] Received 4/1/14,1284.6
+2023-10-02 21:00:41,944.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:01:11,942.gold-consumer.INFO  [x] Received 4/2/14,1279.6
+2023-10-02 21:01:11,942.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:01:41,946.gold-consumer.INFO  [x] Received 4/3/14,1290.4
+2023-10-02 21:01:41,946.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:02:11,952.gold-consumer.INFO  [x] Received 4/4/14,1286.6
+2023-10-02 21:02:11,953.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:02:41,956.gold-consumer.INFO  [x] Received 4/7/14,1304
+2023-10-02 21:02:41,957.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:03:11,964.gold-consumer.INFO  [x] Received 4/8/14,1296.8
+2023-10-02 21:03:11,964.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:03:41,968.gold-consumer.INFO  [x] Received 4/9/14,1308.5
+2023-10-02 21:03:41,969.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:04:11,972.gold-consumer.INFO  [x] Received 4/10/14,1311.9
+2023-10-02 21:04:11,973.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:04:41,979.gold-consumer.INFO  [x] Received 4/11/14,1318.1
+2023-10-02 21:04:41,979.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:05:11,991.gold-consumer.INFO  [x] Received 4/14/14,1321
+2023-10-02 21:05:11,992.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:05:42,001.gold-consumer.INFO  [x] Received 4/15/14,1290.5
+2023-10-02 21:05:42,002.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:06:12,005.gold-consumer.INFO  [x] Received 4/16/14,1303.2
+2023-10-02 21:06:12,006.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:06:42,019.gold-consumer.INFO  [x] Received 4/17/14,1302.1
+2023-10-02 21:06:42,019.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:07:12,032.gold-consumer.INFO  [x] Received 4/18/14,1293.9
+2023-10-02 21:07:12,032.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:07:42,043.gold-consumer.INFO  [x] Received 4/21/14,1294.9
+2023-10-02 21:07:42,044.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:08:12,056.gold-consumer.INFO  [x] Received 4/22/14,1290.3
+2023-10-02 21:08:12,057.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:08:42,059.gold-consumer.INFO  [x] Received 4/23/14,1284
+2023-10-02 21:08:42,060.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:09:12,067.gold-consumer.INFO  [x] Received 4/24/14,1283.9
+2023-10-02 21:09:12,067.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:09:42,074.gold-consumer.INFO  [x] Received 4/25/14,1293.8
+2023-10-02 21:09:42,074.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:10:12,077.gold-consumer.INFO  [x] Received 4/28/14,1303.2
+2023-10-02 21:10:12,078.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:10:42,083.gold-consumer.INFO  [x] Received 4/29/14,1296
+2023-10-02 21:10:42,083.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:11:12,090.gold-consumer.INFO  [x] Received 4/30/14,1295.6
+2023-10-02 21:11:12,090.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:11:42,093.gold-consumer.INFO  [x] Received 5/1/14,1291.9
+2023-10-02 21:11:42,093.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:12:12,100.gold-consumer.INFO  [x] Received 5/2/14,1284.7
+2023-10-02 21:12:12,100.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:12:42,107.gold-consumer.INFO  [x] Received 5/5/14,1300.9
+2023-10-02 21:12:42,108.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:13:12,115.gold-consumer.INFO  [x] Received 5/6/14,1309.7
+2023-10-02 21:13:12,115.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:13:42,122.gold-consumer.INFO  [x] Received 5/7/14,1307.9
+2023-10-02 21:13:42,122.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:14:12,134.gold-consumer.INFO  [x] Received 5/8/14,1289.8
+2023-10-02 21:14:12,135.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:14:42,147.gold-consumer.INFO  [x] Received 5/9/14,1289.6
+2023-10-02 21:14:42,147.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:15:12,157.gold-consumer.INFO  [x] Received 5/12/14,1289.8
+2023-10-02 21:15:12,158.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:15:42,168.gold-consumer.INFO  [x] Received 5/13/14,1296
+2023-10-02 21:15:42,168.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:16:12,177.gold-consumer.INFO  [x] Received 5/14/14,1293.9
+2023-10-02 21:16:12,177.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:16:42,180.gold-consumer.INFO  [x] Received 5/15/14,1305.5
+2023-10-02 21:16:42,180.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:17:12,192.gold-consumer.INFO  [x] Received 5/16/14,1296.4
+2023-10-02 21:17:12,193.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:17:42,198.gold-consumer.INFO  [x] Received 5/19/14,1293
+2023-10-02 21:17:42,199.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:18:12,211.gold-consumer.INFO  [x] Received 5/20/14,1293
+2023-10-02 21:18:12,211.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:18:42,222.gold-consumer.INFO  [x] Received 5/21/14,1294.4
+2023-10-02 21:18:42,223.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:19:12,231.gold-consumer.INFO  [x] Received 5/22/14,1292.1
+2023-10-02 21:19:12,231.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:19:42,245.gold-consumer.INFO  [x] Received 5/23/14,1294.4
+2023-10-02 21:19:42,245.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:20:12,257.gold-consumer.INFO  [x] Received 5/26/14,1291.9
+2023-10-02 21:20:12,257.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:20:42,266.gold-consumer.INFO  [x] Received 5/27/14,1293.5
+2023-10-02 21:20:42,267.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:21:12,276.gold-consumer.INFO  [x] Received 5/28/14,1264
+2023-10-02 21:21:12,276.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:21:42,288.gold-consumer.INFO  [x] Received 5/29/14,1259.2
+2023-10-02 21:21:42,288.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:22:12,300.gold-consumer.INFO  [x] Received 5/30/14,1255.9
+2023-10-02 21:22:12,300.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:22:42,307.gold-consumer.INFO  [x] Received 6/2/14,1250.5
+2023-10-02 21:22:42,307.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:23:12,314.gold-consumer.INFO  [x] Received 6/3/14,1244.1
+2023-10-02 21:23:12,315.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:23:42,321.gold-consumer.INFO  [x] Received 6/4/14,1244.9
+2023-10-02 21:23:42,322.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:24:12,329.gold-consumer.INFO  [x] Received 6/5/14,1244.3
+2023-10-02 21:24:12,329.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:24:42,335.gold-consumer.INFO  [x] Received 6/6/14,1253.7
+2023-10-02 21:24:42,336.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:25:12,341.gold-consumer.INFO  [x] Received 6/9/14,1253
+2023-10-02 21:25:12,342.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:25:42,347.gold-consumer.INFO  [x] Received 6/10/14,1252.7
+2023-10-02 21:25:42,348.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:26:12,354.gold-consumer.INFO  [x] Received 6/11/14,1260.3
+2023-10-02 21:26:12,355.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:26:42,362.gold-consumer.INFO  [x] Received 6/12/14,1261.1
+2023-10-02 21:26:42,362.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:27:12,368.gold-consumer.INFO  [x] Received 6/13/14,1273.4
+2023-10-02 21:27:12,369.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:27:42,382.gold-consumer.INFO  [x] Received 6/16/14,1276.8
+2023-10-02 21:27:42,382.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:28:12,391.gold-consumer.INFO  [x] Received 6/17/14,1271.8
+2023-10-02 21:28:12,392.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:28:42,395.gold-consumer.INFO  [x] Received 6/18/14,1272.1
+2023-10-02 21:28:42,396.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:29:12,408.gold-consumer.INFO  [x] Received 6/19/14,1278.2
+2023-10-02 21:29:12,409.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:29:42,421.gold-consumer.INFO  [x] Received 6/20/14,1320.3
+2023-10-02 21:29:42,421.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:30:12,433.gold-consumer.INFO  [x] Received 6/23/14,1314.9
+2023-10-02 21:30:12,434.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:30:42,445.gold-consumer.INFO  [x] Received 6/24/14,1318.1
+2023-10-02 21:30:42,446.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:31:12,458.gold-consumer.INFO  [x] Received 6/25/14,1318.9
+2023-10-02 21:31:12,459.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:31:42,467.gold-consumer.INFO  [x] Received 6/26/14,1318.7
+2023-10-02 21:31:42,468.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:32:12,469.gold-consumer.INFO  [x] Received 6/27/14,1317.1
+2023-10-02 21:32:12,469.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:32:42,475.gold-consumer.INFO  [x] Received 6/30/14,1316.8
+2023-10-02 21:32:42,475.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:33:12,480.gold-consumer.INFO  [x] Received 7/1/14,1327.5
+2023-10-02 21:33:12,480.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:33:42,486.gold-consumer.INFO  [x] Received 7/2/14,1327.1
+2023-10-02 21:33:42,486.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:34:12,493.gold-consumer.INFO  [x] Received 7/3/14,1321.1
+2023-10-02 21:34:12,493.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:34:42,500.gold-consumer.INFO  [x] Received 7/4/14,1320.6
+2023-10-02 21:34:42,501.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:35:12,505.gold-consumer.INFO  [x] Received 7/7/14,1321.4
+2023-10-02 21:35:12,506.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:35:42,509.gold-consumer.INFO  [x] Received 7/8/14,1320.8
+2023-10-02 21:35:42,509.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:36:12,516.gold-consumer.INFO  [x] Received 7/9/14,1320.4
+2023-10-02 21:36:12,516.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:36:42,523.gold-consumer.INFO  [x] Received 7/10/14,1325
+2023-10-02 21:36:42,523.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:37:12,530.gold-consumer.INFO  [x] Received 7/11/14,1336.5
+2023-10-02 21:37:12,530.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:37:42,537.gold-consumer.INFO  [x] Received 7/14/14,1339.5
+2023-10-02 21:37:42,538.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:38:12,545.gold-consumer.INFO  [x] Received 7/15/14,1309.1
+2023-10-02 21:38:12,545.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:38:42,551.gold-consumer.INFO  [x] Received 7/16/14,1295.2
+2023-10-02 21:38:42,551.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:39:12,563.gold-consumer.INFO  [x] Received 7/17/14,1300.3
+2023-10-02 21:39:12,563.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:39:42,575.gold-consumer.INFO  [x] Received 7/18/14,1319.1
+2023-10-02 21:39:42,575.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:40:12,583.gold-consumer.INFO  [x] Received 7/21/14,1312.2
+2023-10-02 21:40:12,583.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:40:42,588.gold-consumer.INFO  [x] Received 7/22/14,1314.8
+2023-10-02 21:40:42,588.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:41:12,598.gold-consumer.INFO  [x] Received 7/23/14,1309.2
+2023-10-02 21:41:12,598.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:41:42,612.gold-consumer.INFO  [x] Received 7/24/14,1306.7
+2023-10-02 21:41:42,612.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:42:12,624.gold-consumer.INFO  [x] Received 7/25/14,1296
+2023-10-02 21:42:12,624.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:42:42,630.gold-consumer.INFO  [x] Received 7/28/14,1309.2
+2023-10-02 21:42:42,631.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:43:12,640.gold-consumer.INFO  [x] Received 7/29/14,1306.7
+2023-10-02 21:43:12,641.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:43:42,647.gold-consumer.INFO  [x] Received 7/30/14,1300.5
+2023-10-02 21:43:42,647.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:44:12,650.gold-consumer.INFO  [x] Received 7/31/14,1297
+2023-10-02 21:44:12,650.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:44:42,662.gold-consumer.INFO  [x] Received 8/1/14,1284.2
+2023-10-02 21:44:42,662.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:45:12,673.gold-consumer.INFO  [x] Received 8/4/14,1295.4
+2023-10-02 21:45:12,673.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:45:42,680.gold-consumer.INFO  [x] Received 8/5/14,1289.2
+2023-10-02 21:45:42,680.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:46:12,685.gold-consumer.INFO  [x] Received 8/6/14,1288.9
+2023-10-02 21:46:12,685.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:46:42,690.gold-consumer.INFO  [x] Received 8/7/14,1306.6
+2023-10-02 21:46:42,691.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:47:12,696.gold-consumer.INFO  [x] Received 8/8/14,1314.5
+2023-10-02 21:47:12,696.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:47:42,703.gold-consumer.INFO  [x] Received 8/11/14,1310.4
+2023-10-02 21:47:42,703.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:48:12,707.gold-consumer.INFO  [x] Received 8/12/14,1309.2
+2023-10-02 21:48:12,707.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:48:42,712.gold-consumer.INFO  [x] Received 8/13/14,1309.6
+2023-10-02 21:48:42,713.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:49:12,719.gold-consumer.INFO  [x] Received 8/14/14,1313.4
+2023-10-02 21:49:12,719.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:49:42,723.gold-consumer.INFO  [x] Received 8/15/14,1313.4
+2023-10-02 21:49:42,724.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:50:12,729.gold-consumer.INFO  [x] Received 8/18/14,1304.2
+2023-10-02 21:50:12,729.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:50:42,740.gold-consumer.INFO  [x] Received 8/19/14,1298.6
+2023-10-02 21:50:42,741.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:51:12,746.gold-consumer.INFO  [x] Received 8/20/14,1297.2
+2023-10-02 21:51:12,746.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:51:42,751.gold-consumer.INFO  [x] Received 8/21/14,1279.5
+2023-10-02 21:51:42,752.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:52:12,764.gold-consumer.INFO  [x] Received 8/22/14,1278.2
+2023-10-02 21:52:12,764.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:52:42,775.gold-consumer.INFO  [x] Received 8/25/14,1280.8
+2023-10-02 21:52:42,775.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:53:12,787.gold-consumer.INFO  [x] Received 8/26/14,1277.4
+2023-10-02 21:53:12,787.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:53:42,793.gold-consumer.INFO  [x] Received 8/27/14,1281.6
+2023-10-02 21:53:42,794.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:54:12,798.gold-consumer.INFO  [x] Received 8/28/14,1283.7
+2023-10-02 21:54:12,798.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:54:42,810.gold-consumer.INFO  [x] Received 8/29/14,1290.4
+2023-10-02 21:54:42,810.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:55:12,806.gold-consumer.INFO  [x] Received 9/1/14,1287.4
+2023-10-02 21:55:12,806.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:55:42,794.gold-consumer.INFO  [x] Received 9/2/14,1288.4
+2023-10-02 21:55:42,794.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:56:12,804.gold-consumer.INFO  [x] Received 9/3/14,1266.7
+2023-10-02 21:56:12,804.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:56:42,815.gold-consumer.INFO  [x] Received 9/4/14,1269.8
+2023-10-02 21:56:42,816.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:57:12,824.gold-consumer.INFO  [x] Received 9/5/14,1261.7
+2023-10-02 21:57:12,824.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:57:42,836.gold-consumer.INFO  [x] Received 9/8/14,1269.5
+2023-10-02 21:57:42,836.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:58:12,848.gold-consumer.INFO  [x] Received 9/9/14,1257.1
+2023-10-02 21:58:12,848.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:58:42,855.gold-consumer.INFO  [x] Received 9/10/14,1256.2
+2023-10-02 21:58:42,855.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:59:12,862.gold-consumer.INFO  [x] Received 9/11/14,1249.8
+2023-10-02 21:59:12,862.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 21:59:42,869.gold-consumer.INFO  [x] Received 9/12/14,1240.9
+2023-10-02 21:59:42,870.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:00:12,876.gold-consumer.INFO  [x] Received 9/15/14,1228.3
+2023-10-02 22:00:12,876.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:00:42,882.gold-consumer.INFO  [x] Received 9/16/14,1233.2
+2023-10-02 22:00:42,882.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:01:12,889.gold-consumer.INFO  [x] Received 9/17/14,1235.3
+2023-10-02 22:01:12,889.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:01:42,893.gold-consumer.INFO  [x] Received 9/18/14,1223.1
+2023-10-02 22:01:42,894.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:02:12,898.gold-consumer.INFO  [x] Received 9/19/14,1225.6
+2023-10-02 22:02:12,899.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:02:42,905.gold-consumer.INFO  [x] Received 9/22/14,1216.4
+2023-10-02 22:02:42,906.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:03:12,912.gold-consumer.INFO  [x] Received 9/23/14,1214.9
+2023-10-02 22:03:12,912.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:03:42,918.gold-consumer.INFO  [x] Received 9/24/14,1223.2
+2023-10-02 22:03:42,919.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:04:12,923.gold-consumer.INFO  [x] Received 9/25/14,1217.3
+2023-10-02 22:04:12,924.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:04:42,931.gold-consumer.INFO  [x] Received 9/26/14,1222.1
+2023-10-02 22:04:42,932.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:05:12,935.gold-consumer.INFO  [x] Received 9/29/14,1219.1
+2023-10-02 22:05:12,935.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:05:42,945.gold-consumer.INFO  [x] Received 9/30/14,1215.7
+2023-10-02 22:05:42,946.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:06:12,948.gold-consumer.INFO  [x] Received 10/1/14,1209.4
+2023-10-02 22:06:12,949.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:06:42,957.gold-consumer.INFO  [x] Received 10/2/14,1213.4
+2023-10-02 22:06:42,958.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:07:12,968.gold-consumer.INFO  [x] Received 10/3/14,1213.9
+2023-10-02 22:07:12,968.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:07:42,980.gold-consumer.INFO  [x] Received 10/6/14,1192
+2023-10-02 22:07:42,980.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:08:12,986.gold-consumer.INFO  [x] Received 10/7/14,1207.8
+2023-10-02 22:08:12,987.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:08:42,991.gold-consumer.INFO  [x] Received 10/8/14,1209.8
+2023-10-02 22:08:42,991.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:09:13,003.gold-consumer.INFO  [x] Received 10/9/14,1221.1
+2023-10-02 22:09:13,003.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:09:43,007.gold-consumer.INFO  [x] Received 10/10/14,1224
+2023-10-02 22:09:43,007.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:10:13,014.gold-consumer.INFO  [x] Received 10/13/14,1224.8
+2023-10-02 22:10:13,014.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:10:43,021.gold-consumer.INFO  [x] Received 10/14/14,1237.3
+2023-10-02 22:10:43,021.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:11:13,027.gold-consumer.INFO  [x] Received 10/15/14,1233.3
+2023-10-02 22:11:13,028.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:11:43,034.gold-consumer.INFO  [x] Received 10/16/14,1242.2
+2023-10-02 22:11:43,035.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:12:13,039.gold-consumer.INFO  [x] Received 10/17/14,1239.5
+2023-10-02 22:12:13,039.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:12:43,044.gold-consumer.INFO  [x] Received 10/20/14,1239.1
+2023-10-02 22:12:43,044.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:13:13,049.gold-consumer.INFO  [x] Received 10/21/14,1246.8
+2023-10-02 22:13:13,049.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:13:43,056.gold-consumer.INFO  [x] Received 10/22/14,1248.9
+2023-10-02 22:13:43,056.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:14:13,063.gold-consumer.INFO  [x] Received 10/23/14,1241.7
+2023-10-02 22:14:13,063.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:14:43,066.gold-consumer.INFO  [x] Received 10/24/14,1233.5
+2023-10-02 22:14:43,067.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:15:13,069.gold-consumer.INFO  [x] Received 10/27/14,1230.6
+2023-10-02 22:15:13,070.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:15:43,077.gold-consumer.INFO  [x] Received 10/28/14,1225.8
+2023-10-02 22:15:43,077.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:16:13,086.gold-consumer.INFO  [x] Received 10/29/14,1227.8
+2023-10-02 22:16:13,087.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:16:43,098.gold-consumer.INFO  [x] Received 10/30/14,1211.2
+2023-10-02 22:16:43,098.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:17:13,101.gold-consumer.INFO  [x] Received 10/31/14,1174.2
+2023-10-02 22:17:13,102.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:17:43,108.gold-consumer.INFO  [x] Received 11/3/14,1171.1
+2023-10-02 22:17:43,109.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:18:13,112.gold-consumer.INFO  [x] Received 11/4/14,1164.6
+2023-10-02 22:18:13,112.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:18:43,115.gold-consumer.INFO  [x] Received 11/5/14,1168.4
+2023-10-02 22:18:43,116.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:19:13,122.gold-consumer.INFO  [x] Received 11/6/14,1140.8
+2023-10-02 22:19:13,124.gold-consumer.INFO Gold price alert on 11/6/14! The price of gold is $1140.8, so now might be a good time to buy!
+                        That's a $87.0 change since last week and a $27.600000000000136 change since yesterday.
+2023-10-02 22:19:14,464.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:19:43,125.gold-consumer.INFO  [x] Received 11/7/14,1141.2
+2023-10-02 22:19:43,125.gold-consumer.INFO Gold price alert on 11/7/14! The price of gold is $1141.2, so now might be a good time to buy!
+                        That's a $70.0 change since last week and a $-0.40000000000009095 change since yesterday.
+2023-10-02 22:19:44,148.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:20:13,131.gold-consumer.INFO  [x] Received 11/10/14,1176.8
+2023-10-02 22:20:13,131.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:20:43,137.gold-consumer.INFO  [x] Received 11/11/14,1151.5
+2023-10-02 22:20:43,138.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:21:13,145.gold-consumer.INFO  [x] Received 11/12/14,1163
+2023-10-02 22:21:13,146.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:21:43,153.gold-consumer.INFO  [x] Received 11/13/14,1161.1
+2023-10-02 22:21:43,153.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:22:13,159.gold-consumer.INFO  [x] Received 11/14/14,1161.8
+2023-10-02 22:22:13,160.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:22:43,166.gold-consumer.INFO  [x] Received 11/17/14,1185.5
+2023-10-02 22:22:43,167.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:23:13,173.gold-consumer.INFO  [x] Received 11/18/14,1185.6
+2023-10-02 22:23:13,173.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:23:43,180.gold-consumer.INFO  [x] Received 11/19/14,1196.5
+2023-10-02 22:23:43,180.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:24:13,192.gold-consumer.INFO  [x] Received 11/20/14,1183.1
+2023-10-02 22:24:13,193.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:24:43,198.gold-consumer.INFO  [x] Received 11/21/14,1194
+2023-10-02 22:24:43,199.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:25:13,208.gold-consumer.INFO  [x] Received 11/24/14,1200.7
+2023-10-02 22:25:13,208.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:25:43,215.gold-consumer.INFO  [x] Received 11/25/14,1198.2
+2023-10-02 22:25:43,215.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:26:13,219.gold-consumer.INFO  [x] Received 11/26/14,1201.6
+2023-10-02 22:26:13,220.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:26:43,228.gold-consumer.INFO  [x] Received 11/27/14,1197.5
+2023-10-02 22:26:43,228.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:27:13,235.gold-consumer.INFO  [x] Received 11/28/14,1189.8
+2023-10-02 22:27:13,235.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:27:43,242.gold-consumer.INFO  [x] Received 12/1/14,1159.4
+2023-10-02 22:27:43,242.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:28:13,248.gold-consumer.INFO  [x] Received 12/2/14,1212.6
+2023-10-02 22:28:13,249.gold-consumer.INFO  [x] Processed gold price.
+2023-10-02 22:28:17,044.gold-consumer.WARNING  User interrupted continuous listening process.
